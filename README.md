@@ -18,7 +18,7 @@ Add to your MCP client config (stdio):
   "mcpServers": {
     "ciceksepeti": {
       "command": "uvx",
-      "args": ["ciceksepeti-mcp==0.1.0"]
+      "args": ["ciceksepeti-mcp==0.1.1"]
     }
   }
 }
@@ -81,9 +81,9 @@ everything is read-only, no login, no API key.
 ## Install
 
 ```bash
-uvx ciceksepeti-mcp==0.1.0        # run directly (needs uv)
+uvx ciceksepeti-mcp==0.1.1        # run directly (needs uv)
 # or
-pip install ciceksepeti-mcp==0.1.0
+pip install ciceksepeti-mcp==0.1.1
 ciceksepeti-mcp    # starts the MCP server on stdio
 ```
 
