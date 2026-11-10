@@ -1,5 +1,8 @@
 # ciceksepeti-mcp 🇹🇷
 
+> ⚠️ **Durum: BOZUK (2026-11-10)** — ciceksepeti.com şu anda otomatik erişimi engelliyor: bağlantı sıfırlanıyor veya istek reddediliyor (403). Tüm araçlar net bir "engellendi" hatası döndürür. Canlı durum için `ciceksepeti_health` kullanın.
+
+
 mcp-name: io.github.mohammad-abbasi-sh/ciceksepeti-mcp
 
 Türkiye'nin önde gelen çiçek & hediye teslimat pazaryeri
