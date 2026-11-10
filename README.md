@@ -1,5 +1,8 @@
 # ciceksepeti-mcp 🇹🇷
 
+> ⚠️ **Status: DEGRADED (2026-11-10)** — ciceksepeti.com currently blocks automated access: the connection is reset on chrome120 / chrome131 and refused (HTTP 403) on safari17_0 from this environment. All tools return a clear "blocked" error until the site allows access again. Check `ciceksepeti_health` for the live status.
+
+
 mcp-name: io.github.mohammad-abbasi-sh/ciceksepeti-mcp
 
 Unofficial **read-only** MCP server for ciceksepeti.com**, Türkiye's leading flower & gift delivery marketplace — search thousands of bouquets, plants and gifts, read product details (price, list price, stock, rating, seller, category), read customer reviews, browse 89 flower/plant/gift categories, and get price statistics (min / median / mean / max) for any query.
