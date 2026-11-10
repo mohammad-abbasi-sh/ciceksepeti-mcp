@@ -22,7 +22,7 @@ MCP istemci yapılandırmanıza ekleyin (stdio):
   "mcpServers": {
     "ciceksepeti": {
       "command": "uvx",
-      "args": ["ciceksepeti-mcp"]
+      "args": ["ciceksepeti-mcp==0.1.0"]
     }
   }
 }
@@ -69,9 +69,9 @@ okunurdur, giriş gerekmez, API anahtarı gerekmez.
 ## Kurulum
 
 ```bash
-uvx ciceksepeti-mcp        # doğrudan çalıştır (uv gerekir)
+uvx ciceksepeti-mcp==0.1.0        # doğrudan çalıştır (uv gerekir)
 # veya
-pip install ciceksepeti-mcp
+pip install ciceksepeti-mcp==0.1.0
 ciceksepeti-mcp    # MCP sunucusunu stdio üzerinde başlatır
 ```
 
