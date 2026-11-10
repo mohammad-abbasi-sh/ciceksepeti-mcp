@@ -1,5 +1,8 @@
 # ciceksepeti-mcp 🇹🇷
 
+> ⚠️ **وضعیت: دچار اختلال (۲۰۲۶-۱۱-۱۰)** — سایت ciceksepeti.com در حال حاضر دسترسی خودکار را مسدود می‌کند: اتصال قطع یا درخواست رد می‌شود (۴۰۳). همه‌ی ابزارها خطای واضح «مسدود» برمی‌گردانند. وضعیت زنده را با `ciceksepeti_health` بررسی کنید.
+
+
 mcp-name: io.github.mohammad-abbasi-sh/ciceksepeti-mcp
 
 سرور MCP غیررسمی و **فقط‌خواندنی** برای **ciceksepeti.com**، مارکت‌پلیس
