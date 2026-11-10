@@ -23,7 +23,7 @@ mcp-name: io.github.mohammad-abbasi-sh/ciceksepeti-mcp
   "mcpServers": {
     "ciceksepeti": {
       "command": "uvx",
-      "args": ["ciceksepeti-mcp==0.1.0"]
+      "args": ["ciceksepeti-mcp==0.1.1"]
     }
   }
 }
@@ -70,9 +70,9 @@ mcp-name: io.github.mohammad-abbasi-sh/ciceksepeti-mcp
 ## نصب
 
 ```bash
-uvx ciceksepeti-mcp==0.1.0        # اجرای مستقیم (نیازمند uv)
+uvx ciceksepeti-mcp==0.1.1        # اجرای مستقیم (نیازمند uv)
 # یا
-pip install ciceksepeti-mcp==0.1.0
+pip install ciceksepeti-mcp==0.1.1
 ciceksepeti-mcp    # اجرای سرور MCP روی stdio
 ```
 
